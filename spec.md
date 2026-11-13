@@ -4,7 +4,7 @@
 |---|---|---|
 | Phan Đào Minh Quân | 2A202603971 | §1 Lát cắt · §2 Kịch bản rủi ro · mở đầu demo (30") |
 | Nguyễn Công Hoàn | 2A202603972  | §3 Khi AI sai · §6 Tốt là gì · bấm prototype ca A (tài liệu sai) |
-| _[Họ tên 3]_ | _[mã]_ | §4 Mức tự chủ · §5 Prototype · bấm ca B (bài đang mở) + màn hình TA + ca lạ |
+| Nguyễn Phi Hoàng | 2A202603952 | §4 Mức tự chủ · §5 Prototype · bấm ca B (bài đang mở) + màn hình TA + ca lạ |
 
 > Mọi dữ liệu trong bài là dữ liệu dựng của track T2 (khoá "Nhập môn phân tích dữ liệu", buổi 3). Giờ giả lập trong mọi kịch bản: **thứ Sáu 13/11/2026, 22:40–23:10** — tức là **sau giờ TA (08:00–22:00)** và **trước hạn Bài tập 3 (13/11 23:59)**. Khoảng 80 phút này là nơi mọi lỗi đắt nhất xảy ra: TA không còn, hạn chưa qua, học viên đang vội.
 
